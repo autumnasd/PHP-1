@@ -1,7 +1,0 @@
-/vendor/
-.idea
-.vscode
-.phan
-composer.lock
-
-.phpunit.result.cache
